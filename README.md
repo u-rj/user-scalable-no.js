@@ -1,22 +1,26 @@
 # user-scalable-no.js
 
-![Badge Status](https://ci-as-a-service)
-
-user-scalable=noの非対応ブラウザに対応するライブラリ
+>user-scalable=noに対応するライブラリ
 
 ## Description
 
 ios10ではアクセシビリティの観点で非対応になるuser-scalable=noに対応することができます。
 
-***DEMO:***
-https://oha-ryoju.github.io/user-scalable-no.js/src/
+**DEMO:**
+https://oha-ryoju.github.io/user-scalable-no.js/demo/
+
 
 ## Usage
 
-1. jsのインクルード
-	<script src="js/user-scalable-no.js"></script>
-2. metaの追加
-	<meta testuoeuoeu>
+### jsのインクルード
+```index.html
+<script src="js/user-scalable-no.js"></script>
+```
+
+###metaの追加
+```index.html
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+```
 
 ## Installation
 
