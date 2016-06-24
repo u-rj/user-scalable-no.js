@@ -22,7 +22,7 @@ gulp.task('demo', function () {
 
 gulp.task('watch', function () {
 	gulp.watch('./src/*.js', ['js'])
-	gulp.watch('.src/*.html', ['demo'])
+	gulp.watch('./src/*.html', ['demo'])
 });
 
 gulp.task('default', ['js', 'demo', 'watch']);
