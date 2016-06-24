@@ -9,8 +9,7 @@ user-scalable=noの非対応ブラウザに対応するライブラリ
 ios10ではアクセシビリティの観点で非対応になるuser-scalable=noに対応することができます。
 
 ***DEMO:***
-
-![Demo](https://image-url.gif)
+https://oha-ryoju.github.io/user-scalable-no.js/src/
 
 ## Usage
 
