@@ -14,9 +14,9 @@ https://oha-ryoju.github.io/user-scalable-no.js/demo/
 <script src="js/user-scalable-no.js"></script>
 ```
 
-###metaの追加
+### metaの変更
 ```index.html
-<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<meta name="viewport" content="user-scalable=no">
 ```
 
 ## Installation
