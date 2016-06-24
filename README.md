@@ -1,9 +1,6 @@
 # user-scalable-no.js
 
->user-scalable=noに対応するライブラリ
-
-## Description
-
+###user-scalable=noに対応するライブラリ
 ios10ではアクセシビリティの観点で非対応になるuser-scalable=noに対応することができます。
 
 **DEMO:**
